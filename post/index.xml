@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on EMI 英語教室</title>
+    <link>https://emieigo.com/post/</link>
+    <description>Recent content in Posts on EMI 英語教室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Apr 2021 23:03:00 +0900</lastBuildDate><atom:link href="https://emieigo.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post</title>
+      <link>https://emieigo.com/post/first-post/</link>
+      <pubDate>Tue, 06 Apr 2021 23:03:00 +0900</pubDate>
+      
+      <guid>https://emieigo.com/post/first-post/</guid>
+      <description>This is a testing placeholder</description>
+    </item>
+    
+  </channel>
+</rss>
